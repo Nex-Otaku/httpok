@@ -2,7 +2,7 @@
 
 Simple HTTP server for webhook debugging.
 
-![tcp-beacon PNG](https://raw.githubusercontent.com/Nex-Otaku/tcp-beacon/master/img/screenshot.png)
+![httpok PNG](https://raw.githubusercontent.com/Nex-Otaku/httpok/master/img/httpok-example.png)
 
 ## Features
 
@@ -33,7 +33,7 @@ Now, every time the service calls webhook, HTTP request will come to ngrok and t
 
 Thanks to Ngrok you can see all content that is sent to webhook by service. Ngrok provides you a nice dashboard at http://127.0.0.1:4040
 
-![tcp-beacon PNG](https://raw.githubusercontent.com/Nex-Otaku/tcp-beacon/master/img/screenshot.png)
+![Ngrok Dashboard PNG](https://raw.githubusercontent.com/Nex-Otaku/httpok/master/img/ngrok-dashboard.png)
 
 You can use dummy HTTP server with or without any tool, not only Ngrok, it is just a useful example.
  
