@@ -8,7 +8,9 @@
     "start": "node httpok.js"
   },
   "preferGlobal": true,
-  "bin": "./httpok.js",
+  "bin": {
+    "httpok": "./httpok.js"
+  },
   "keywords": [
     "server",
     "tool",
