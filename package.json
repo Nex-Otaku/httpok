@@ -1,0 +1,20 @@
+{
+  "name": "@nex_otaku/httpok",
+  "version": "1.0.0",
+  "description": "Simplest HTTP server",
+  "main": "httpok.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node httpok.js"
+  },
+  "preferGlobal": true,
+  "bin": "./httpok.js",
+  "keywords": [
+    "server",
+    "tool",
+    "http",
+    "mock"
+  ],
+  "author": "Nex Otaku",
+  "license": "MIT"
+}
